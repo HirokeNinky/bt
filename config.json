@@ -1,0 +1,9 @@
+{
+	"ip":"hirosurvivalmc.ploudos.me",
+	"port": "11472",
+	"name": "HiroCuta",
+	"auto-night-skip":"false",
+	"login-enabled":"true",
+	"register-cmd":"/register pass123 ",
+	"login-cmd":"/login pass123 "
+}
